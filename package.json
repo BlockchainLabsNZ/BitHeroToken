@@ -1,0 +1,22 @@
+{
+  "name": "bitherotoken",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle.js",
+  "scripts": {
+    "test": "truffle test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BlockchainLabsNZ/BitHeroToken.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BlockchainLabsNZ/BitHeroToken/issues"
+  },
+  "homepage": "https://github.com/BlockchainLabsNZ/BitHeroToken#readme",
+  "dependencies": {
+    "zeppelin-solidity": "^1.10.0"
+  }
+}
