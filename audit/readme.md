@@ -88,12 +88,13 @@ Full report can be read [here](framework-comparison-report.md)
 
 ## Observations
 
-# DELETE THIS SECTION IF THERE ARE NO OBSERVATIONS
+- The deployed contracts are not source verified so we can't confirm if the source code we are auditing is the code that is deployed
+
+# TBD
 
 ## Conclusion
-The developers demonstrated an understanding of Solidity and smart contracts.
 
-Overall we consider the resulting contracts following the audit feedback period adequate and have not identified any potential vulnerabilities. This contract has a low level risk of ETH and BTH being hacked or stolen from the inspected contracts.
+# TBD
 
 <hr>
 
