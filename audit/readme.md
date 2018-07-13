@@ -88,7 +88,7 @@ Full report can be read [here](framework-comparison-report.md)
 
 ## Observations
 
-- The deployed contracts are not source verified so we can't confirm if the source code we are auditing is the code that is deployed
+- Before the Audit the team has deployed contracts their to mainnet at the address of 0x91e8782aed0213659caea7d80975ac20ce9ebb38 & 0x5ba422338f85d19d92eaab161ce0ee2d93165116. To date niether of these contracts have been are source verified. We would recommend that the team source verified these contracts to confirm the are the same as the code that has been audited.
 
 # TBD
 
