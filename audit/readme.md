@@ -44,6 +44,10 @@ The following contracts were subject for analysis:
 
 Full report can be read [here](framework-comparison-report.md)
 
+## Functional Testing
+
+Full report can be read [here](functional-test-report.md)
+
 ## Issues
 
 ### Severity Description
@@ -89,13 +93,15 @@ Full report can be read [here](framework-comparison-report.md)
 
 ## Observations
 
-- Before the Audit the team has deployed contracts their to mainnet at the address of 0x91e8782aed0213659caea7d80975ac20ce9ebb38 & 0x5ba422338f85d19d92eaab161ce0ee2d93165116. To date niether of these contracts have been are source verified. We would recommend that the team source verified these contracts to confirm the are the same as the code that has been audited.
-
-# TBD
+- Before the Audit the team has deployed contracts their to mainnet at the address of [0x91e8782aed0213659caea7d80975ac20ce9ebb38](http://etherscan.io/address/0x91e8782aed0213659caea7d80975ac20ce9ebb38) & [0x5ba422338f85d19d92eaab161ce0ee2d93165116](http://etherscan.io/address/0x5ba422338f85d19d92eaab161ce0ee2d93165116). To date neither of these contracts have been are source verified. We would recommend that the team source verified these contracts to confirm the are the same as the code that has been audited.
 
 ## Conclusion
 
-# TBD
+The developers are using an audited framework for both their Token contracts and their ICO contracts.
+
+We took part in carefully reviewing all source code provided, including both static and functional testing methodology.
+
+Overall we consider the contracts we audited are adequate and we have not identified any potential vulnerabilities. This contract has a low level risk of ETH and BTH being hacked or stolen from the inspected contracts.
 
 <hr>
 

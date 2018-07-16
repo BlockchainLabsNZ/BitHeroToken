@@ -1,6 +1,6 @@
 ## Framework used
 
-Generally, this project is using a solidity framework [TokenMarket ico](https://github.com/TokenMarketNet/ico), the latest version currently. After comparison, 12/19 of all contracts stay the same.See details from the [list](https://gist.github.com/ryu9827/cfe97495f4d2186606c1bf766d8220d1). However, some contracts have slight modifications from original framework, which are listed below: 
+Generally, this project is using a solidity framework [TokenMarket - ICO](https://github.com/TokenMarketNet/ico), the latest version currently. After comparison, 12/19 of all contracts stay the same. See details from the [list](https://gist.github.com/ryu9827/cfe97495f4d2186606c1bf766d8220d1). However, some contracts have slight modifications from original framework, which are listed below:
 
 * AllocatedCrowdsaleMixin.sol
 ```
