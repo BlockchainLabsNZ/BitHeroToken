@@ -5,7 +5,7 @@ Tests are conducted on the Kovan test network. The following contracts has been 
 ## [`AllocatedCrowdsale[0xe9c590]`](https://kovan.etherscan.io/address/0x92d9bfd9a76f2f2e7ec04e7e763da10b3ee03f5e#code)
 ## [`UpgradeAgent[0x780a56]`](https://kovan.etherscan.io/address/0x780a566020076b9f1fd8c993f6be80fa7c885730#code)
 ## [`MultiSigWallet[0x9226fd]`](https://kovan.etherscan.io/address/0x9226fd784bf8d5615bf9547014840fffdea6a18e#code)
-## [`PricingStrategy[0x799e9d]`](https://kovan.etherscan.io/address/0x799e9d3191b5f59cd2a604140f07b1bac0385e01#code)
+## [`FlatPricing[0x799e9d]`](https://kovan.etherscan.io/address/0x799e9d3191b5f59cd2a604140f07b1bac0385e01#code)
 ## [`DefaultFinalizeAgent[0xebc06a]`](https://kovan.etherscan.io/address/0x1e1bbdb147fb59d3f08fd67c2bf2f535b41d6b92#code)
  
 ## Accounts
