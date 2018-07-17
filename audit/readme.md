@@ -94,6 +94,7 @@ Full report can be read [here](functional-test-report.md)
 ## Observations
 
 - Before the Audit the team has deployed their contracts to mainnet at the address of [0x91e8782aed0213659caea7d80975ac20ce9ebb38](http://etherscan.io/address/0x91e8782aed0213659caea7d80975ac20ce9ebb38) & [0x5ba422338f85d19d92eaab161ce0ee2d93165116](http://etherscan.io/address/0x5ba422338f85d19d92eaab161ce0ee2d93165116). To date neither of these contracts have been source verified. We would recommend that the team source verified these contracts to confirm they are the same as the code that has been audited.
+- The MultiSigWallet contract is using a different name, GnosisWallet.sol, as the file name. It doesn't destruct the contracts as a whole or break any connections. However, we don't recommand this. Naming the file by contract name is better for readbility.
 
 ## Conclusion
 
