@@ -93,11 +93,11 @@ Full report can be read [here](functional-test-report.md)
 
 ## Observations
 
-- Before the Audit the team has deployed contracts their to mainnet at the address of [0x91e8782aed0213659caea7d80975ac20ce9ebb38](http://etherscan.io/address/0x91e8782aed0213659caea7d80975ac20ce9ebb38) & [0x5ba422338f85d19d92eaab161ce0ee2d93165116](http://etherscan.io/address/0x5ba422338f85d19d92eaab161ce0ee2d93165116). To date neither of these contracts have been are source verified. We would recommend that the team source verified these contracts to confirm the are the same as the code that has been audited.
+- Before the Audit the team has deployed their contracts to mainnet at addresses [0x91e8782aed0213659caea7d80975ac20ce9ebb38](http://etherscan.io/address/0x91e8782aed0213659caea7d80975ac20ce9ebb38) & [0x5ba422338f85d19d92eaab161ce0ee2d93165116](http://etherscan.io/address/0x5ba422338f85d19d92eaab161ce0ee2d93165116). To date neither of these contracts have been source verified. We would recommend that the team source verified these contracts to confirm that they are the same as the code that has been audited.
 
 ## Conclusion
 
-The developers are using an audited framework for both their Token contracts and their ICO contracts.
+The developers are using an audited framework for both their Token contracts and their ICO contracts. We created a [report](framework-comparison-report.md) which shows the differences between the framework code, and the code in this set of contracts has no major differences. We are relying on the test suite and previous audits for this framework as a foundation for our confidence in the security of these contracts. Usually we would like to see a full test suite also included with the contracts.
 
 We took part in carefully reviewing all source code provided, including both static and functional testing methodology.
 
