@@ -98,11 +98,7 @@ Full report can be read [here](functional-test-report.md)
 
 ## Conclusion
 
-The developers are using an audited framework for both their Token contracts and their ICO contracts. We created a [report](framework-comparison-report.md) which shows the differences between the framework code, and the code in this set of contracts has no major differences. We are relying on the test suite and previous audits for this framework as a foundation for our confidence in the security of these contracts. Usually we would like to see a full test suite also included with the contracts.
-
-We took part in carefully reviewing all source code provided, including both static and functional testing methodology.
-
-Overall we consider the contracts we audited are adequate and we have not identified any potential vulnerabilities. These contracts have a low level risk of ETH and BTH being hacked or stolen from the inspected contracts.
+tbd
 
 <hr>
 
